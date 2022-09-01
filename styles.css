@@ -1,16 +1,19 @@
 
 * {
-
+	box-sizing: border-box;
 }
 
 body {
+	font-family: sans-serif;
+}
+
+.heading-title {
+	color: black;
+	text-align: center;
+}
+
+section {
 
 }
 
-h1 {
 
-}
-
-p {
-
-}
