@@ -111,3 +111,7 @@ p {
         grid-row: 3 / 4;
     }
 }
+
+#nav-text a {
+    text-align: center;
+}
